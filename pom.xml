@@ -87,6 +87,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
+		<finalName>JenkinsSample</finalName>
 	</build>
 
 </project>

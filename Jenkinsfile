@@ -7,7 +7,7 @@ pipeline {
                 echo 'Building..'
                 bat '''
                 	mvn package
-                	mvn install
+                	
                 '''
             }
         }
